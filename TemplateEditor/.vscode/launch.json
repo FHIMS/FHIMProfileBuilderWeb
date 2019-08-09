@@ -2,7 +2,7 @@
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    // Praxis debug note: install 'Debugger for Chrome' 4.11.6 
+    // Template Editor debug note: install 'Debugger for Chrome' 4.11.6 
     "version": "0.2.0",
     "configurations": [
         {

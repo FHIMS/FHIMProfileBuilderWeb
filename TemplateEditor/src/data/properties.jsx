@@ -1,7 +1,7 @@
 // FHIM server StructureDefinition resource URL
-export const baseURL =     'http://ocp-apps-elb-811293208.us-east-2.elb.amazonaws.com:8082/fhir/baseDstu3/StructureDefinition/';
+export const baseURL =     ' http://hapi.fhir.org/baseDstu3/StructureDefinition/';
 // FHIR server  base url
-export const baseURLNext = 'http://ocp-apps-elb-811293208.us-east-2.elb.amazonaws.com:8082/fhir/baseDstu3/';
+export const baseURLNext = ' http://hapi.fhir.org/baseDstu3/';
 // FHIM Profile Genenrator Function id - ths data is inserted to URL
 export const generateFunctionId = '';
 // Search dashborard - the number of matching structurues per page
